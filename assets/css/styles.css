@@ -149,6 +149,12 @@ img{
     height: auto;
 }
 
+button{
+    outline: none;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
 /* ====================== REUSABLE CSS CLASSES ================= */
 .section{
     padding: 2rem 0 4rem;
